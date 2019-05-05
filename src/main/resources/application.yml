@@ -1,0 +1,9 @@
+sftp:
+  host: localhost
+  port: 22
+  user: ddadev
+  password: ddaDev_01
+logging:
+  level:
+    root: INFO
+    com.jyeh.streaming: DEBUG

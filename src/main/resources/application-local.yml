@@ -1,0 +1,5 @@
+ecs:
+  endpoint: http://localhost:9000
+  user: ddadev
+  password: ddaDev_01
+  bucket: streaming-test
